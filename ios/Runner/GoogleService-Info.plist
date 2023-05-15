@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>269963445243-4fvl98vr43in1rtltrg4jsdq4773utmr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.269963445243-4fvl98vr43in1rtltrg4jsdq4773utmr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>269963445243-dfd1ud8jd18t0d5oji80pkvnjhrvrnm8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDK8Wx7iIL4bLYSyeNLYSC7c1EjKrxr-S4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>269963445243</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.imb.alpha</string>
+	<key>PROJECT_ID</key>
+	<string>imb-payment</string>
+	<key>STORAGE_BUCKET</key>
+	<string>imb-payment.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:269963445243:ios:a73349cc3fe3374b38415e</string>
+	<key>DATABASE_URL</key>
+	<string>https://imb-payment.firebaseio.com</string>
+</dict>
+</plist>
