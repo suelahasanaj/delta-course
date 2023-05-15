@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "269963445243",
+    "firebase_url": "https://imb-payment.firebaseio.com",
+    "project_id": "imb-payment",
+    "storage_bucket": "imb-payment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269963445243:android:dd8f8fb6b5335e0c38415e",
+        "android_client_info": {
+          "package_name": "com.imb.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269963445243-dfd1ud8jd18t0d5oji80pkvnjhrvrnm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imb.alpha",
+            "certificate_hash": "2cb87abbe8ba5575a9c4c3583cefc230fb6ae557"
+          }
+        },
+        {
+          "client_id": "269963445243-sbmott25vvu5p6jkppsq2pd77jsg9v0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imb.alpha",
+            "certificate_hash": "54f09df29d8d547916574a96c397deecd78673eb"
+          }
+        },
+        {
+          "client_id": "269963445243-psnqtcttddnidbecmk4s82aa07i91hse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20tzoOgBNLwJUFWZ26AeLe92CIFoQt14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269963445243-psnqtcttddnidbecmk4s82aa07i91hse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269963445243-4fvl98vr43in1rtltrg4jsdq4773utmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imb.alpha"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269963445243:android:d6981d9092ef659d38415e",
+        "android_client_info": {
+          "package_name": "com.imb.delta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269963445243-psnqtcttddnidbecmk4s82aa07i91hse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB20tzoOgBNLwJUFWZ26AeLe92CIFoQt14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269963445243-psnqtcttddnidbecmk4s82aa07i91hse.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "269963445243-4fvl98vr43in1rtltrg4jsdq4773utmr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imb.alpha"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
